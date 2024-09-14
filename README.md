@@ -18,7 +18,6 @@ To set up a new repository:
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 The README file is crucial because it tells others what your project is about and how to use it. A well-written README should include:
-
 - Project Title: What is the project called?
 - Description: What does it do?
 - Installation Instructions: How can someone set it up?
