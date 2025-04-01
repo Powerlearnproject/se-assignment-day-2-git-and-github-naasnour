@@ -72,4 +72,4 @@ Challenges:
 Best Practices:
 - Regular Commits: Commit changes frequently to keep track of progress.
 - Clear Messages: Write descriptive commit messages to explain changes.
-- Collaboration: Communicate with your team to avoid conflicts and ensure smooth workflow.
+- Collaboration: Communicate with your team to avoid conflicts and ensure smooth workflow. 
